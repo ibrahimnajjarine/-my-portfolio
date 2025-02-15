@@ -9,6 +9,18 @@
     font-family: Arial, sans-serif;
     line-height: 1.6;
   }
+  
+  .flex{
+    padding:10px;
+    background-color:#383E42;
+    color:white;
+    font-size:12px;
+    word-spacing: 10px;
+    display:flex;
+    flex-flow:row nowrap;
+    justify-content:space-between;
+    align-content:space-around;
+  }
 
   /* Add your header styles here */
 
